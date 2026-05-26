@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routercarse",
+        "uuid": 6619065,
+        "checksum": "ta86ij"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
